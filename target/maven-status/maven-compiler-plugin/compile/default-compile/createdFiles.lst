@@ -1,0 +1,16 @@
+com\usa\reto4\web\UserWeb.class
+com\usa\reto4\Repository\OrderRepo.class
+com\usa\reto4\Repository\UserRepo.class
+com\usa\reto4\Services\UserService.class
+com\usa\reto4\web\OrderWeb.class
+com\usa\reto4\Crud\GadgetInterface.class
+com\usa\reto4\Services\OrderService.class
+com\usa\reto4\Modelos\Gadget.class
+com\usa\reto4\web\GadgetWeb.class
+com\usa\reto4\Repository\GadgetRepo.class
+com\usa\reto4\Reto4Application.class
+com\usa\reto4\Crud\UserInterface.class
+com\usa\reto4\Modelos\Order.class
+com\usa\reto4\Services\GadgetService.class
+com\usa\reto4\Crud\OrderInterface.class
+com\usa\reto4\Modelos\User.class
